@@ -1,0 +1,1 @@
+["Trend", ["trending", "trendcrave", "trending songs", "trend spot", "trending music", "trendy", "trendsetter", "trend central", "trend", "trendmood box"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

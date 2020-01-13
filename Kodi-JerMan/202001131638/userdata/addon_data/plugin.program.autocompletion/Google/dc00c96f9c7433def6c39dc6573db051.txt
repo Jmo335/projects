@@ -1,0 +1,1 @@
+["T", ["the box", "tik tok", "try not to laugh", "taylor swift", "truth hurts", "travis scott", "titans vs ravens", "texans vs chiefs", "the weeknd", "tom and jerry"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

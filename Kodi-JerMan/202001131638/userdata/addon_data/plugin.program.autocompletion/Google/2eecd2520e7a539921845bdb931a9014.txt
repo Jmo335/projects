@@ -1,0 +1,1 @@
+["Googled", ["googledmusic", "google", "googledolls", "google drive", "google docs", "googled questions", "googled myself", "googled my dad", "googled my teacher", "google doodle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

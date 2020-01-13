@@ -1,0 +1,1 @@
+["Ne", ["news", "new song", "nelk", "new york alicia keys", "new hindi song", "netflix", "new mutants trailer", "nelly", "new movie", "news today"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

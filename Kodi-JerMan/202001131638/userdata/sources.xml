@@ -1,0 +1,30 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>Nixgat repo</name>
+            <path pathversion="1">http://nixgates.github.io/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TheCrew</name>
+            <path pathversion="1">http://team-crew.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>20342</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seren/?action=moviesHome",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>$SKIN[31103|skin.aura|Live TV]</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		<visible>PVR.HasTVChannels</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>addons</defaultID>
+		<label>24001</label>
+		<label2 />
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb />
+		<action>ActivateWindow(AddonBrowser)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>5</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>G-Drive</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video/,return)</action>
+	</shortcut>
+</shortcuts>
