@@ -1,0 +1,1 @@
+["G-", ["g-eazy", "g-idle", "g-dragon", "g-unit", "g-eazy i mean it", "g-force", "g-man", "g-a7qvf9tz4", "g-nlasimorc", "g-eazy me myself and i"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

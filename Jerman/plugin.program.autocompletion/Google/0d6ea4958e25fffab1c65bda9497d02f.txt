@@ -1,0 +1,1 @@
+["Goo", ["good news mac miller", "good as hell", "goodmorningtokyo", "google", "goosebumps", "good morning", "good boys", "good morning song", "good songs", "google stadia"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

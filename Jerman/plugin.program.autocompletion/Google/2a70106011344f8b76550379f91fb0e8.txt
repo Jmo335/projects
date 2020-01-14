@@ -1,0 +1,1 @@
+["Goog", ["google", "google stadia", "google pixel 4", "google home mini", "google gaga", "google translate", "google nest hub", "google home", "google pixel 4 xl", "google stadia review"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

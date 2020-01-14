@@ -1,0 +1,1 @@
+["Weather", ["weather", "weathering with you", "weather live", "weather channel", "weather song", "weathering with you trailer", "weather report", "weatherman", "weather channel live stream now", "weather for kids"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

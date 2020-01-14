@@ -1,0 +1,1 @@
+["url", ["urltv", "url", "url royalty", "url rap battles", "url rap battles 2020", "url 2019", "url royalty recap", "url smack", "url battles", "url best bars"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

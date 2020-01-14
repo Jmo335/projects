@@ -1,0 +1,1 @@
+["be", ["beyonce", "benny soliven", "believer", "becky g", "beats", "ben shapiro", "beetlejuice", "beast mode", "bernie sanders", "best friend"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

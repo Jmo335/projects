@@ -1,0 +1,1 @@
+["Butter", ["buttercup", "butterfly", "buttercup jack stauber", "butterflies", "butterfly kisses", "butter chicken", "butterfly effect", "butterfly doors playboi carti", "butterfly bts", "butter"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

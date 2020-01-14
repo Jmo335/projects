@@ -1,0 +1,1 @@
+["But", ["buttercup", "butterfly", "buta", "buttercup jack stauber", "but", "butterflies", "buttons", "butterfly kisses", "but let me tell you i like ua lot bae", "butter chicken"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Tr", ["try not to laugh", "truth hurts", "travis scott", "trippie redd", "troom troom", "trevor noah", "try guys", "trump", "troydan", "trey songz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

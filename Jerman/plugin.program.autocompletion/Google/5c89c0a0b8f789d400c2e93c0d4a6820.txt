@@ -1,0 +1,1 @@
+["G-Drive", ["g-drive", "g-drive mobile pro ssd", "g-drive mobile ssd", "g-drive mobile usb-c", "g-drive usb-c", "g-drive thunderbolt 3", "g-drive ev raw", "g-drive pro ssd", "g-drive mobile", "g-drive mobile ssd r-series"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

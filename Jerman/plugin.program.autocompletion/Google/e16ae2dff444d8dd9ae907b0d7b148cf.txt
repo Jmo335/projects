@@ -1,0 +1,1 @@
+["Foot", ["Foot", "football", "footloose", "football vines", "football songs", "foot fungus", "football live", "football hits", "football games", "football highlights", "football skills"], [], {"google:suggesttype": ["", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

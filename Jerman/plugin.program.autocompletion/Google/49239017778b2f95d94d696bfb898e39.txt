@@ -1,0 +1,1 @@
+["F", ["fortnite", "faze rug", "future", "flamingo", "funny videos", "fgteev", "funnymike", "frozen 2", "fearless", "falling"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
