@@ -1,1 +1,0 @@
-["http:", ["http protocol", "http vs https", "http request", "http error 500", "http tutorial", "http 2", "http methods", "http explained", "http //www.youtube.com/watch v=dagpbkwa22c how to make money online in 2018 as a beginner", "http headers"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

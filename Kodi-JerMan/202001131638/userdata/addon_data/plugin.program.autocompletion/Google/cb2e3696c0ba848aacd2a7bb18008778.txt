@@ -1,1 +1,0 @@
-["Footbal", ["football", "football vines", "football songs", "football live", "football hits", "football games", "football highlights", "football skills", "football pump up", "football videos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

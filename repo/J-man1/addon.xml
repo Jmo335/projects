@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="1" name="jerman" version="1.1" provider-name="Jmo335">
+    <extension point="xbmc.addon.repository" name="Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Jmo335/projects/jerman/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Jmo335/projects/jerman/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Jmo335/projects/jerman/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>jerman</summary>
+        <description>jerman</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

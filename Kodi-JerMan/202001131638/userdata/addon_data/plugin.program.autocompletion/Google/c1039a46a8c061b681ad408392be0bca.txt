@@ -1,1 +1,0 @@
-["New Tv", ["new tv shows 2020", "new tv", "new tv shows", "new tv live", "new tv series", "new tv lebanon", "new tv 2019", "new tv show trailers", "new tv series 2020", "new tv shows 2020 official trailers"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

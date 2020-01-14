@@ -1,1 +1,0 @@
-["G-D", ["g-dragon", "g-dep", "g-david", "g-dragon crooked", "g-dragon untitled", "g-dragon heartbreaker", "g-dragon crayon", "g-dragon without you", "g-dep let's get it", "g-dragon live"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

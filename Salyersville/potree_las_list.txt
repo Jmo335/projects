@@ -1,2 +1,0 @@
-c:\MontgomeryGIS\Salyersville\lidar_color\N111E383_extract_color.las
-c:\MontgomeryGIS\Salyersville\lidar_color\N111E384_extract_color.las

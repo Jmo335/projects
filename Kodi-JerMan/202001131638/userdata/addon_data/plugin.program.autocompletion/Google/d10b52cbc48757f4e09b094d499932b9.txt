@@ -1,1 +1,0 @@
-["Trendin", ["trending", "trending songs", "trending music", "trending now", "trending videos", "trending nakhra", "trending rap songs", "trending tiktok songs", "trending music 2019", "trending houses"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

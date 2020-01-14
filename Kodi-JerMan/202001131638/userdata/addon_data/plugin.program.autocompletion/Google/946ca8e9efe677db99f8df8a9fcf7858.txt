@@ -1,1 +1,0 @@
-["Go", ["good news mac miller", "golden globes 2020 ricky gervais", "gordon ramsay", "good as hell", "gorillaz", "goodmorningtokyo", "godzilla", "google", "gojol", "golden globes 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

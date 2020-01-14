@@ -1,1 +1,0 @@
-["g", ["good news mac miller", "gacha life", "gucci mane", "gta 5", "gordon ramsay", "guava juice", "gunna", "genius", "game grumps", "gloom"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

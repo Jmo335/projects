@@ -1,1 +1,0 @@
-["Football1", ["football 1", "football 19", "football18", "football 10u", "football107", "football 14u", "football 13", "football 101", "football 12u", "football 10"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
