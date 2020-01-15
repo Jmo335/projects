@@ -1,1 +1,0 @@
-["Foo", ["football", "food", "foolio", "footloose", "foo fighters", "football vines", "food asmr", "food ranger", "football songs", "fooligan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

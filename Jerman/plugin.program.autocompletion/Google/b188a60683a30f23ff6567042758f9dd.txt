@@ -1,1 +1,0 @@
-["ko", ["kodak black", "korn", "korean drama", "koffee", "koala", "kot4q", "korporate", "kobe bryant", "koala rescued from fire", "kolkata bangla movie"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

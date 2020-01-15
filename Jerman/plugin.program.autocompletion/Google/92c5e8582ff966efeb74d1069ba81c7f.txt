@@ -1,1 +1,0 @@
-["S", ["song", "stephanie soo", "shane dawson", "senorita", "selena gomez", "snl", "suicidal ynw melly", "slime", "sssniperwolf", "sada baby"], [], {"google:fieldtrialtriggered": true, "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

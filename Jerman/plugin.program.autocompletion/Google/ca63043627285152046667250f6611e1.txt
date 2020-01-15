@@ -1,1 +1,0 @@
-["Setting", ["settings", "setting powder", "setting goals", "setting up iphone 11", "setting spray", "setting sun lord huron", "setting free fire", "setting boundaries", "setting up ps4", "setting up echo dot"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Search..", ["search...youtube", "search...google", "search...google maps", "search...facebook", "search hidden f", "search the hidden t", "search ammo boxes at landmarks", "search hidden o found", "search the hidden i", "search a chest in a haunted forest"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

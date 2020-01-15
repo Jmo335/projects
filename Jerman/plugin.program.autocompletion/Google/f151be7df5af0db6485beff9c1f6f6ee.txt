@@ -1,1 +1,0 @@
-["Search.", ["search. youtube", "search.r6", "search.com", "search.yahoo", "search. hidden o", "search. you", "search.php wordpress", "search. hidden t", "search. chest in a ghost town", "search.yahoo.com browser hijacker removal mac"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

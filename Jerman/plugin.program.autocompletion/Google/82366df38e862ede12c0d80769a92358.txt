@@ -1,1 +1,0 @@
-["RzOZ", ["zroz", "rozen", "zrozen", "zerozero", "zerozilla", "frozen 2", "zrozeni k zab\u00edjen\u00ed", "zrozum", "zrozonion", "groza"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

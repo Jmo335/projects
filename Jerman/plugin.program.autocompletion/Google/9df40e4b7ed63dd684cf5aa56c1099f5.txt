@@ -1,1 +1,0 @@
-["Seren - Search.", ["seren - search.com", "seren - search.org"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

@@ -1,1 +1,0 @@
-["c", ["christmas songs", "cardi b", "chris brown", "chiefs vs texans", "cartoon", "cj so cool", "ceeday", "cwc", "country music", "collins key"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

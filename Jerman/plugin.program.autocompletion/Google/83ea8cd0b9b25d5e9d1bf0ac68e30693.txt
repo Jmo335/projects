@@ -1,1 +1,0 @@
-["Fo", ["fortnite", "football", "fox news", "fortnite event", "fortnite chapter 2", "formula", "fortnite live", "fortnite song", "fortnite fashion show", "food"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

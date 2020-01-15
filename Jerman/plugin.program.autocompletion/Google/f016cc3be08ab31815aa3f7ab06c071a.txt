@@ -1,1 +1,0 @@
-["Sere", ["serena williams", "serendipity", "serena art", "serenity", "serena", "serena abweh", "serebro", "serenade", "serenity17", "serena safari"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

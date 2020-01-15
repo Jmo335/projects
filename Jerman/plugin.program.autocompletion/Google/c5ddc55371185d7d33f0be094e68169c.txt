@@ -1,1 +1,0 @@
-["N", ["nintendo", "nintendo direct", "news", "nicki minaj", "nf", "nfl", "nle choppa", "ninja", "new song", "nba"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

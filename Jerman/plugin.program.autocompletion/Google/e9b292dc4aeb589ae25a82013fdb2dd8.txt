@@ -1,1 +1,0 @@
-["ur", ["urltv", "url", "urban talk", "urbanda", "uranus", "urban cowboy", "ursula", "uriah heep", "urban meyer", "urban skin rx"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["b", ["baby shark", "billie eilish", "bts", "brawadis", "bad bunny", "blippi", "bad guy", "bandit", "beyonce", "blueface"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

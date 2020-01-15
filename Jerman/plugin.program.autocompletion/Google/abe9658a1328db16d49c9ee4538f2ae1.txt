@@ -1,1 +1,0 @@
-["G-Dr", ["g-dragon", "g-dragon crooked", "g-dragon untitled", "g-dragon heartbreaker", "g-dragon crayon", "g-dragon without you", "g-dragon live", "g-dragon reaction", "g-dragon black", "g-dragon songs"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
